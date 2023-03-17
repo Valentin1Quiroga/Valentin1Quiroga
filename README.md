@@ -8,6 +8,7 @@ Como programador Full Stack autodidacta, he desarrollado habilidades técnicas s
 - 📫 Cómo contactarme: valentin.quiroga.dev@gmail.com 
 - ⚡ Dato curioso: "El talento, la pasión y la determinación son armas poderosas que pueden superar incluso la experiencia laboral más extensa." 
 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/valentin1quiroga)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/valentin-quiroga-855488237/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://rolling-cucina.netlify.app/)  
 
