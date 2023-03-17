@@ -4,6 +4,7 @@
 
 Como programador Full Stack autodidacta, he desarrollado habilidades técnicas sólidas y adquirido una amplia formación educativa en IT. Estoy motivado para aplicar mis conocimientos en un ambiente laboral y seguir aprendiendo y creciendo profesionalmente. Aunque no cuento con mucha experiencia laboral, estoy seguro de que mi actitud de aprendizaje continuo y mi capacidad para resolver problemas me permitirán aportar valor a cualquier proyecto en el que participe.
 
+/github/followers/:valentin1quiroga?label=Follow
 - 🔭 Estoy trabajando en proyectos autónomos de apps web 
 - 📫 Cómo contactarme: valentin.quiroga.dev@gmail.com 
 - ⚡ Dato curioso: "El talento, la pasión y la determinación son armas poderosas que pueden superar incluso la experiencia laboral más extensa." 
