@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hola 👋, mi nombre es Valentin Quiroga
+#### Soy desarrollador web fullstack. 
+![Soy desarrollador web fullstack. ](https://wallpapercave.com/wp/wp8903933.jpg)
 
-<!--
-**Valentin1Quiroga/Valentin1Quiroga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Como programador Full Stack autodidacta, he desarrollado habilidades técnicas sólidas y adquirido una amplia formación educativa en IT. Estoy motivado para aplicar mis conocimientos en un ambiente laboral y seguir aprendiendo y creciendo profesionalmente. Aunque no cuento con mucha experiencia laboral, estoy seguro de que mi actitud de aprendizaje continuo y mi capacidad para resolver problemas me permitirán aportar valor a cualquier proyecto en el que participe.
 
-Here are some ideas to get you started:
+- 🔭 Estoy trabajando en proyectos autónomos de apps web 
+- 📫 Cómo contactarme: valentin.quiroga.dev@gmail.com 
+- ⚡ Dato curioso: "El talento, la pasión y la determinación son armas poderosas que pueden superar incluso la experiencia laboral más extensa." 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/valentin1quiroga)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/valentin-quiroga-855488237/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://rolling-cucina.netlify.app/)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=valentin1quiroga)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=valentin1quiroga&show_icons=true)  
+
+![Profile views](https://gpvc.arturio.dev/valentin1quiroga)  
